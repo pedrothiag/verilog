@@ -1,0 +1,8 @@
+|paridade
+a3 => p.IN0
+a2 => p.IN1
+a1 => p.IN1
+a0 => p.IN1
+p << p.DB_MAX_OUTPUT_PORT_TYPE
+
+

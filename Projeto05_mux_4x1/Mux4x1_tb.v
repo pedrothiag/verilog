@@ -1,0 +1,23 @@
+`timescale 1ns/100ps
+
+module Mux4x1_tb;
+	reg i00, i10, i20, i30, s10, s00;
+	wire f0;
+	
+	Mux4x1 uut (.i0(i00), .i1(i10), .i2((i20)), .i3(i30), .s1(s10), .s0(s00), .f(f0));
+	
+	initial begin
+		i00 = 1'b0;
+		i10 = 1'b1;
+		i20 = 1'b0;
+		i30 = 1'b1;
+		
+		s10 = 1'b0; s00 = 1'b0;
+		#10; s10 = 1'b0; s00 = 1'b1;
+		#10; s10 = 1'b1; s00 = 1'b0;
+		#10; s10 = 1'b1; s00 = 1'b1;
+		#10; i30 = 1'b0;
+		#10; $stop;
+	end
+	
+endmodule

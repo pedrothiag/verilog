@@ -1,0 +1,73 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11f vlog 2023.3 2023.07, Jul 17 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/souza/OneDrive/Documentos/Projetos/Verilog/Projeto07_Somador_4bits_revisto/simulation/questa
+T_opt
+!s110 1711115577
+Vf7Q7[WTTeoLne32aD?>W52
+04 15 4 work somador4bits_tb fast 0
+=1-0c9192a93549-65fd8d38-354-1988
+R0
+!s12b OEM100
+!s124 OEM10U2 
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2023.3;77
+vsomador4bits
+2C:/Users/souza/OneDrive/Documentos/Projetos/Verilog/Projeto07_Somador_4bits_revisto/somador4bits.v
+Z3 !s110 1711115575
+!i10b 1
+!s100 z>mANl4GM@::cmQjzf=fT3
+I;j`TLIo@5<JLmN80NeR4l2
+R1
+w1711115180
+8C:/Users/souza/OneDrive/Documentos/Projetos/Verilog/Projeto07_Somador_4bits_revisto/somador4bits.v
+FC:/Users/souza/OneDrive/Documentos/Projetos/Verilog/Projeto07_Somador_4bits_revisto/somador4bits.v
+!i122 0
+L0 1 12
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2023.3;77
+r1
+!s85 0
+31
+Z6 !s108 1711115575.000000
+!s107 C:/Users/souza/OneDrive/Documentos/Projetos/Verilog/Projeto07_Somador_4bits_revisto/somador4bits.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/souza/OneDrive/Documentos/Projetos/Verilog/Projeto07_Somador_4bits_revisto|C:/Users/souza/OneDrive/Documentos/Projetos/Verilog/Projeto07_Somador_4bits_revisto/somador4bits.v|
+!i113 0
+Z7 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z8 !s92 -vlog01compat -work work +incdir+C:/Users/souza/OneDrive/Documentos/Projetos/Verilog/Projeto07_Somador_4bits_revisto -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vsomador4bits_tb
+2C:/Users/souza/OneDrive/Documentos/Projetos/Verilog/Projeto07_Somador_4bits_revisto/somador4bits_tb.v
+R3
+!i10b 1
+!s100 ZB`GGO=9N28RhNPmIl>LT0
+IgO;GZ7iboKOM=]n4;megZ1
+R1
+w1711115523
+8C:/Users/souza/OneDrive/Documentos/Projetos/Verilog/Projeto07_Somador_4bits_revisto/somador4bits_tb.v
+FC:/Users/souza/OneDrive/Documentos/Projetos/Verilog/Projeto07_Somador_4bits_revisto/somador4bits_tb.v
+!i122 1
+L0 3 16
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/souza/OneDrive/Documentos/Projetos/Verilog/Projeto07_Somador_4bits_revisto/somador4bits_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/souza/OneDrive/Documentos/Projetos/Verilog/Projeto07_Somador_4bits_revisto|C:/Users/souza/OneDrive/Documentos/Projetos/Verilog/Projeto07_Somador_4bits_revisto/somador4bits_tb.v|
+!i113 0
+R7
+R8
+R2
